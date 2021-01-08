@@ -1,0 +1,70 @@
+body {
+    background-color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+nav {
+    text-align: right;
+    line-height: 50px;
+    vertical-align: 50%;
+    font-size: 20px;
+    position: fixed; 
+    top: 1;
+    right: 0;
+}
+header {
+    text-align: center;
+    color:#244431; 
+}
+h1 {
+    font-size: 55px;
+}
+h2 {
+    font-size: 25px;
+}
+h3 {
+    font-size: 30px;
+}
+h4 {
+    font-size: 20px;
+}
+main {
+    color: #244431;
+    text-align: center;
+}
+address {
+    font-size: 18px;
+    color:#244431;
+    text-align: center;
+}
+a {
+    color: #244431;
+    padding: 10px;  
+}
+.separator {
+    font-size: 55px;
+    line-height: 25px;
+}
+.about-me-in-one-sentence {
+    font-size: 25px;
+    text-align: left;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.what-I-do {
+    font-size: 25px;
+    text-align: left;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.my-philosophy {
+    font-size: 25px;
+    text-align: left;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.my-philosophy-list {
+    font-size: 25px;
+    text-align: left;
+    padding-left: 19%;
+    padding-right: 15%;
+}
